@@ -16,3 +16,4 @@ print(f"\n Var Value is {obj.var}  \t Var2 Value is {obj.var2}")
 
 fun = lambda a,b : a*b+10
 print(fun(10,9))
+print(obj.var2)
